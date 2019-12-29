@@ -8,11 +8,7 @@ This is a Node.js application.
 
 After cloning repositoy go to the project folder and run
 
-```
-npm i
-```
 
-then 
 ```
 npm start
 ```
